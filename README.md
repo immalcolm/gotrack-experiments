@@ -1,4 +1,5 @@
 # Go Learning
+List of experiments and notes for learning Go
 
 ## fmt package
 %T - prints the variable type used when Printf
